@@ -1,0 +1,81 @@
+2025-10-24 20:01:35,667 [WARNING] todo: connection established
+2025-10-24 20:01:35,815 [WARNING] todo: connection established
+2025-10-24 20:01:35,820 [INFO] todo: Add task? True
+2025-10-24 20:01:35,972 [WARNING] todo: connection established
+2025-10-24 20:01:35,977 [INFO] todo: Add task? False
+2025-10-24 20:01:35,978 [WARNING] todo: task already there
+2025-10-24 20:01:36,005 [WARNING] todo: connection established
+2025-10-24 20:01:36,011 [INFO] todo: Add task? False
+2025-10-24 20:01:36,011 [WARNING] todo: task already there
+2025-10-24 20:01:36,148 [WARNING] todo: connection established
+2025-10-24 20:01:36,154 [INFO] todo: cursor rowcount: 1
+2025-10-24 20:01:36,192 [WARNING] todo: connection established
+2025-10-24 20:06:53,405 [WARNING] todo: connection established
+2025-10-24 20:06:53,433 [WARNING] todo: connection established
+2025-10-24 20:06:53,437 [INFO] todo: Add task? True
+2025-10-24 20:06:53,468 [WARNING] todo: connection established
+2025-10-24 20:06:53,472 [INFO] todo: Add task? False
+2025-10-24 20:06:53,472 [WARNING] todo: task already there
+2025-10-24 20:06:53,493 [WARNING] todo: connection established
+2025-10-24 20:06:53,499 [INFO] todo: Add task? False
+2025-10-24 20:06:53,499 [WARNING] todo: task already there
+2025-10-24 20:06:53,520 [WARNING] todo: connection established
+2025-10-24 20:06:53,524 [INFO] todo: cursor rowcount: 1
+2025-10-24 20:06:53,552 [WARNING] todo: connection established
+2025-12-17 20:12:54,852 [WARNING] todo: connection established
+2025-12-17 20:12:55,283 [WARNING] todo: connection not established
+2025-12-17 20:12:55,284 [WARNING] todo: Query Error
+2025-12-17 20:12:55,530 [WARNING] todo: connection not established
+2025-12-17 20:12:55,530 [WARNING] todo: Query Error
+2025-12-17 20:12:55,691 [WARNING] todo: connection not established
+2025-12-17 20:12:55,691 [WARNING] todo: Query Error
+2025-12-17 20:12:55,899 [WARNING] todo: connection not established
+2025-12-17 20:12:55,899 [WARNING] todo: connection not established
+2025-12-17 20:12:56,182 [WARNING] todo: connection not established
+2025-12-17 20:12:56,183 [WARNING] todo: connection not established
+2025-12-17 20:23:43,157 [WARNING] todo: connection established
+2025-12-17 20:23:43,357 [WARNING] todo: connection not established
+2025-12-17 20:23:43,357 [WARNING] todo: Query Error
+2025-12-17 20:23:43,730 [WARNING] todo: connection not established
+2025-12-17 20:23:43,730 [WARNING] todo: Query Error
+2025-12-17 20:23:43,918 [WARNING] todo: connection not established
+2025-12-17 20:23:43,918 [WARNING] todo: Query Error
+2025-12-17 20:23:44,258 [WARNING] todo: connection not established
+2025-12-17 20:23:44,258 [WARNING] todo: connection not established
+2025-12-17 20:23:44,678 [WARNING] todo: connection not established
+2025-12-17 20:23:44,857 [WARNING] todo: connection not established
+2025-12-17 20:23:44,857 [WARNING] todo: connection not established
+2025-12-17 20:24:29,463 [WARNING] todo: connection established
+2025-12-17 20:24:29,616 [WARNING] todo: connection not established
+2025-12-17 20:24:29,616 [WARNING] todo: Query Error
+2025-12-17 20:24:29,767 [WARNING] todo: connection not established
+2025-12-17 20:24:29,767 [WARNING] todo: Query Error
+2025-12-17 20:24:29,930 [WARNING] todo: connection not established
+2025-12-17 20:24:29,931 [WARNING] todo: Query Error
+2025-12-17 20:24:30,130 [WARNING] todo: connection not established
+2025-12-17 20:24:30,130 [WARNING] todo: connection not established
+2025-12-17 20:24:30,282 [WARNING] todo: connection not established
+2025-12-17 20:24:30,283 [WARNING] todo: connection not established
+2025-12-17 20:24:58,599 [WARNING] todo: connection established
+2025-12-17 20:24:58,768 [WARNING] todo: connection not established
+2025-12-17 20:24:58,768 [WARNING] todo: Query Error
+2025-12-17 20:24:58,928 [WARNING] todo: connection not established
+2025-12-17 20:24:58,929 [WARNING] todo: Query Error
+2025-12-17 20:24:59,092 [WARNING] todo: connection not established
+2025-12-17 20:24:59,093 [WARNING] todo: Query Error
+2025-12-17 20:24:59,289 [WARNING] todo: connection not established
+2025-12-17 20:24:59,289 [WARNING] todo: connection not established
+2025-12-17 20:24:59,461 [WARNING] todo: connection not established
+2025-12-17 20:24:59,461 [WARNING] todo: connection not established
+2025-12-17 20:25:52,210 [WARNING] todo: connection established
+2025-12-17 20:25:52,372 [WARNING] todo: connection not established
+2025-12-17 20:25:52,372 [WARNING] todo: Query Error
+2025-12-17 20:25:52,535 [WARNING] todo: connection not established
+2025-12-17 20:25:52,535 [WARNING] todo: Query Error
+2025-12-17 20:25:52,691 [WARNING] todo: connection not established
+2025-12-17 20:25:52,692 [WARNING] todo: Query Error
+2025-12-17 20:25:52,890 [WARNING] todo: connection not established
+2025-12-17 20:25:52,891 [WARNING] todo: connection not established
+2025-12-17 20:25:53,063 [WARNING] todo: connection not established
+2025-12-17 20:25:53,223 [WARNING] todo: connection not established
+2025-12-17 20:25:53,223 [WARNING] todo: connection not established
